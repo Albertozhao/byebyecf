@@ -2,7 +2,7 @@
 theme: ./
 title: Best CF team
 ---
-#### **My favorite people** <br>
+#### **Favorite people** <br>
 To the best coworkers ever
 
 ---
